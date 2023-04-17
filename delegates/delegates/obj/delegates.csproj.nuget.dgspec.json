@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tec\\source\\repos\\delegates\\delegates\\delegates.csproj": {}
+    "C:\\Users\\Tec\\source\\repos\\oopH2\\delegates\\delegates\\delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tec\\source\\repos\\delegates\\delegates\\delegates.csproj": {
+    "C:\\Users\\Tec\\source\\repos\\oopH2\\delegates\\delegates\\delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tec\\source\\repos\\delegates\\delegates\\delegates.csproj",
+        "projectUniqueName": "C:\\Users\\Tec\\source\\repos\\oopH2\\delegates\\delegates\\delegates.csproj",
         "projectName": "delegates",
-        "projectPath": "C:\\Users\\Tec\\source\\repos\\delegates\\delegates\\delegates.csproj",
+        "projectPath": "C:\\Users\\Tec\\source\\repos\\oopH2\\delegates\\delegates\\delegates.csproj",
         "packagesPath": "C:\\Users\\Tec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tec\\source\\repos\\delegates\\delegates\\obj\\",
+        "outputPath": "C:\\Users\\Tec\\source\\repos\\oopH2\\delegates\\delegates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
